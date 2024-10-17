@@ -30,3 +30,27 @@
 *.exe
 *.out
 *.app
+
+# Add to the selected template:
+*.jou
+*.log
+*.str
+*.rpt
+*.html
+*.lck
+*.wdb
+*.bin
+*.bit
+*.dcp
+*.xpr
+*.sysdef
+*.xml
+
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.srcs/
+
